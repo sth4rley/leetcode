@@ -12,10 +12,7 @@ class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
 
-        ListNode * p1 = l1;
-        ListNode * p2 = l2;
-
-        ListNode * p3;
+        ListNode * res;
         ListNode * current;
         ListNode * prev = nullptr;
 
@@ -23,19 +20,19 @@ public:
 
         bool first = true;
 
-        while(p1 or p2){
+        while(l1 or l2){
             // l1 cabou-se kkkk
-            if(!p1){
+            if(not l1){
                 current = new ListNode();
                 if(first){
-                    p3 = current;
+                    res = current;
                     first = false;
                 } else {
                     prev->next = current;
                 }
 
                     
-                int sum = p2->val + carry;
+                int sum = l2->val + carry;
                 carry=0;
 
                 if(sum>9){
@@ -45,22 +42,22 @@ public:
 
                 current->val = sum;
 
-                p2 = p2->next;
+                l2 = l2->next;
                 prev = current;
                 current = current->next;
             }
-            // p2 cabou-se kkkk
-            else if(!p2){
+            // l2 cabou-se kkkk
+            else if(not l2){
                 current = new ListNode();
                 if(first){
-                    p3 = current;
+                    res = current;
                     first = false;
                 } else {
                     prev->next = current;
                 }
 
                     
-                int sum = p1->val + carry;
+                int sum = l1->val + carry;
                 carry=0;
 
                 if(sum>9){
@@ -70,7 +67,7 @@ public:
 
                 current->val = sum;
 
-                p1 = p1->next;
+                l1 = l1->next;
                 prev = current;
                 current = current->next;
             }
@@ -78,13 +75,13 @@ public:
             else {
                 current = new ListNode();
                 if(first){
-                    p3 = current;
+                    res = current;
                     first = false;
                 } else {
                     prev->next = current;
                 }
 
-                int sum = p1->val + p2->val + carry;
+                int sum = l1->val + l2->val + carry;
                 carry=0;
 
                 if(sum>9){
@@ -94,18 +91,19 @@ public:
 
                 current->val = sum;
 
-                p1 = p1->next;
-                p2 = p2->next;
+                l1 = l1->next;
+                l2 = l2->next;
                 prev = current;
                 current = current->next;
             }
         }
         
-    cout << "carry = "<< carry << endl;
+    // se sobrou um carry
     if(carry){
         current = new ListNode(carry);
         prev->next = current;
     }
-    return p3;
+
+    return res;
     }
 };
