@@ -81,12 +81,16 @@ My Solutions for LeetCode Challenges
 - ...
 
 ### Graph General
+...
 
 ### Graph BFS
+...
 
 ### Trie
+...
 
 ### Backtracking
+...
 
 ### Divide & Conquer
 - [ ] Convert Sorted Array to Binary Search Tree
@@ -105,6 +109,7 @@ My Solutions for LeetCode Challenges
 - ...
 
 ### Heap
+...
 
 ### Bit Manipulation
 - [ ] Add Binary
@@ -127,9 +132,4 @@ My Solutions for LeetCode Challenges
 - [ ] Longest Increasing Subsequence
 
 ### Multidimensional DP
-- [ ] Triangle
-- [ ] Minimum Path Sum
-- [ ] Unique Paths II
-- [ ] Longest Palindromic Substring
-- [ ] Interleaving String
-- [ ] Edit Distance
+... 
