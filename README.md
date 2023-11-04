@@ -30,7 +30,7 @@ My Solutions for LeetCode Challenges
 - [ ] Text Justification
 
 ### Two Pointers
-- [ ] Valid Palindrome
+- [x] Valid Palindrome
 - [ ] Is Subsequence
 - [ ] Two Sum II - Input Array Is Sorted
 - [ ] Container With Most Water
