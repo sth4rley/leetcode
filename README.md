@@ -46,7 +46,7 @@ My Solutions for LeetCode Challenges
 ### Intervals
 
 ### Stack
-- [ ] Valid Parentheses
+- [x] Valid Parentheses
 - [ ] Simplify Path
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
