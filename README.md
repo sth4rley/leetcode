@@ -43,6 +43,7 @@ My Solutions for LeetCode Challenges
 ### Hashmap
 - [x] Two Sum
 - [x] Valid Anagram
+- [x] Contains Duplicate II
 
 ### Intervals
 
