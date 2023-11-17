@@ -42,6 +42,7 @@ My Solutions for LeetCode Challenges
 
 ### Hashmap
 - [x] Two Sum
+- [x] Valid Anagram
 
 ### Intervals
 
