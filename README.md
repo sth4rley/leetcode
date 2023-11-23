@@ -22,7 +22,7 @@ My Solutions for LeetCode Challenges
 - [ ] Trapping Rain Water
 - [ ] Roman to Integer
 - [ ] Integer to Roman
-- [ ] Length of Last Word
+- [x] Length of Last Word
 - [ ] Longest Common Prefix
 - [ ] Reverse Words in a String
 - [ ] Zigzag Conversion
