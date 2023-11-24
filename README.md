@@ -51,7 +51,7 @@ My Solutions for LeetCode Challenges
 - [x] Valid Parentheses
 - [ ] Simplify Path
 - [ ] Min Stack
-- [ ] Evaluate Reverse Polish Notation
+- [x] Evaluate Reverse Polish Notation
 - [ ] Basic Calculator
 
 ### Linked List
