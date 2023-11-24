@@ -83,10 +83,18 @@ My Solutions for LeetCode Challenges
 - ...
 
 ### Graph General
+- [ ] Number of Islands
+- [ ] Surrounded Regions
+- [ ] Clone Graph
+- [ ] Evaluate Division
+- [ ] Course Schedule
+- [ ] Course Schedule II
 ...
 
 ### Graph BFS
-...
+- [ ] Snakes and Ladders
+- [ ] Minimum Genetic Mutation
+- [ ] Word Ladder
 
 ### Trie
 ...
