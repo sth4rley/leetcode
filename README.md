@@ -121,7 +121,7 @@ My Solutions for LeetCode Challenges
 - ...
 
 ### Math
-- [ ] Palindrome Number
+- [x] Palindrome Number
 - [ ] Plus One
 - [ ] Sqrt(x)
 - ...
