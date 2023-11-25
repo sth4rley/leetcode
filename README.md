@@ -4,7 +4,7 @@ My Solutions for LeetCode Challenges
 ## Top 150
 
 ### Array / String
-- [ ] Merge Sorted Array
+- [x] Merge Sorted Array
 - [ ] Remove Element
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Remove Duplicates from Sorted Array II
