@@ -5,7 +5,7 @@ My Solutions for LeetCode Challenges
 
 ### Array / String
 - [x] Merge Sorted Array
-- [ ] Remove Element
+- [x] Remove Element
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Remove Duplicates from Sorted Array II
 - [ ] Majority Element
