@@ -49,7 +49,7 @@ My Solutions for LeetCode Challenges
 
 ### Stack
 - [x] Valid Parentheses
-- [ ] Simplify Path
+- [x] Simplify Path
 - [ ] Min Stack
 - [x] Evaluate Reverse Polish Notation
 - [ ] Basic Calculator
