@@ -26,7 +26,7 @@ My Solutions for LeetCode Challenges
 - [ ] Longest Common Prefix
 - [ ] Reverse Words in a String
 - [ ] Zigzag Conversion
-- [ ] Find the Index of the First Occurrence in a String
+- [x] Find the Index of the First Occurrence in a String
 - [ ] Text Justification
 
 ### Two Pointers
@@ -130,7 +130,7 @@ My Solutions for LeetCode Challenges
 
 ### Math
 - [x] Palindrome Number
-- [ ] Plus One
+- [x] Plus One
 - [ ] Sqrt(x)
 - ...
 
