@@ -56,6 +56,7 @@ My Solutions for LeetCode Challenges
 
 ### Linked List
 - [ ] Linked List Cycle
+- [x] Swap Pairs ***
 - [x] Add Two Numbers
 - [ ] Merge Two Sorted Lists
 - [ ] Copy List with Random Pointer
