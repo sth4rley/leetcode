@@ -8,7 +8,7 @@ My Solutions for LeetCode Challenges
 - [x] Remove Element
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Remove Duplicates from Sorted Array II
-- [ ] Majority Element
+- [x] Majority Element
 - [ ] Rotate Array
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Best Time to Buy and Sell Stock II
@@ -41,6 +41,7 @@ My Solutions for LeetCode Challenges
 ### Matrix
 
 ### Hashmap
+- [x] Ransom Note
 - [x] Two Sum
 - [x] Valid Anagram
 - [x] Contains Duplicate II
