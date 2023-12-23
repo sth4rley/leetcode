@@ -39,6 +39,7 @@ My Solutions for LeetCode Challenges
 ### Sliding Window
 
 ### Matrix
+- [x] Rotate Image
 
 ### Hashmap
 - [x] Ransom Note
