@@ -37,6 +37,9 @@ My Solutions for LeetCode Challenges
 - [ ] 3Sum
 
 ### Sliding Window
+- [ ] Minimum Size Subarray Sum
+- [ ] Longest Substring Without Repeating Characters
+
 
 ### Matrix
 - [x] Rotate Image
@@ -48,6 +51,10 @@ My Solutions for LeetCode Challenges
 - [x] Contains Duplicate II
 
 ### Intervals
+- [ ] Summary Ranges
+- [ ] Merge Intervals
+- [ ] Insert Interval
+- [ ] Minimum Number of Arrows to Burst Balloons
 
 ### Stack
 - [x] Valid Parentheses
