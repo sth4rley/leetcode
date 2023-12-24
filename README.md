@@ -43,6 +43,7 @@ My Solutions for LeetCode Challenges
 
 ### Matrix
 - [x] Rotate Image
+- [x] Valid Sudoku
 
 ### Hashmap
 - [x] Ransom Note
