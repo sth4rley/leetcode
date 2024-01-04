@@ -146,7 +146,7 @@ My Solutions for LeetCode Challenges
 - ...
 
 ### 1D DP
-- [ ] Climbing Stairs
+- [x] Climbing Stairs
 - [ ] House Robber
 - [ ] Word Break
 - [ ] Coin Change
