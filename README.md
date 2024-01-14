@@ -79,9 +79,9 @@ My Solutions for LeetCode Challenges
 - [ ] LRU Cache
 
 ### Binary Tree General
-- [ ] Maximum Depth of Binary Tree
-- [ ] Same Tree
-- [ ] Invert Binary Tree
+- [x] Maximum Depth of Binary Tree
+- [x] Same Tree
+- [x] Invert Binary Tree
 - [ ] Symmetric Tree
 - ...
 
