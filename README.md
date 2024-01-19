@@ -20,7 +20,7 @@ My Solutions for LeetCode Challenges
 - [ ] Gas Station
 - [ ] Candy
 - [ ] Trapping Rain Water
-- [ ] Roman to Integer
+- [x] Roman to Integer
 - [ ] Integer to Roman
 - [x] Length of Last Word
 - [ ] Longest Common Prefix
