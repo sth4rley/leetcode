@@ -24,7 +24,7 @@ My Solutions for LeetCode Challenges
 - [ ] Integer to Roman
 - [x] Length of Last Word
 - [ ] Longest Common Prefix
-- [ ] Reverse Words in a String
+- [x] Reverse Words in a String
 - [ ] Zigzag Conversion
 - [x] Find the Index of the First Occurrence in a String
 - [ ] Text Justification
