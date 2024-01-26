@@ -47,6 +47,7 @@ My Solutions for LeetCode Challenges
 
 ### Hashmap
 - [x] Ransom Note
+- [x] Isomorphic Strings
 - [x] Two Sum
 - [x] Valid Anagram
 - [x] Contains Duplicate II
