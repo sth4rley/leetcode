@@ -1,7 +1,8 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        map<char, char> m, n;
+        char m [128] = {0};
+        char n [128] = {0};
 
         for(int i = 0; i<s.size(); ++i) {
 
@@ -15,6 +16,6 @@ public:
         }
 
         return true;
-        
+
     }
 };
