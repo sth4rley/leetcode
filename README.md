@@ -31,8 +31,8 @@ My Solutions for LeetCode Challenges
 
 ### Two Pointers
 - [x] Valid Palindrome
-- [ ] Is Subsequence
-- [ ] Two Sum II - Input Array Is Sorted
+- [x] Is Subsequence
+- [x] Two Sum II - Input Array Is Sorted
 - [ ] Container With Most Water
 - [ ] 3Sum
 
