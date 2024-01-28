@@ -51,6 +51,7 @@ My Solutions for LeetCode Challenges
 - [x] Word Pattern
 - [x] Two Sum
 - [x] Valid Anagram
+- [x] Group Anagrams
 - [x] Contains Duplicate II
 
 ### Intervals
