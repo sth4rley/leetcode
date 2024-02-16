@@ -1,8 +1,6 @@
 # leetcode
 My Solutions for LeetCode Challenges
 
-## Top 150
-
 ### Array / String
 - [x] Merge Sorted Array
 - [x] Remove Element
@@ -18,8 +16,6 @@ My Solutions for LeetCode Challenges
 - [ ] Insert Delete GetRandom O(1)
 - [ ] Product of Array Except Self
 - [ ] Gas Station
-- [ ] Candy
-- [ ] Trapping Rain Water
 - [x] Roman to Integer
 - [ ] Integer to Roman
 - [x] Length of Last Word
@@ -27,7 +23,6 @@ My Solutions for LeetCode Challenges
 - [x] Reverse Words in a String
 - [ ] Zigzag Conversion
 - [x] Find the Index of the First Occurrence in a String
-- [ ] Text Justification
 
 ### Two Pointers
 - [x] Valid Palindrome
@@ -65,7 +60,6 @@ My Solutions for LeetCode Challenges
 - [x] Simplify Path
 - [ ] Min Stack
 - [x] Evaluate Reverse Polish Notation
-- [ ] Basic Calculator
 
 ### Linked List
 - [ ] Linked List Cycle
@@ -74,7 +68,6 @@ My Solutions for LeetCode Challenges
 - [ ] Merge Two Sorted Lists
 - [ ] Copy List with Random Pointer
 - [ ] Reverse Linked List II
-- [ ] Reverse Nodes in k-Group
 - [ ] Remove Nth Node From End of List
 - [ ] Remove Duplicates from Sorted List II
 - [ ] Rotate List
@@ -108,10 +101,10 @@ My Solutions for LeetCode Challenges
 ### Graph BFS
 - [ ] Snakes and Ladders
 - [ ] Minimum Genetic Mutation
-- [ ] Word Ladder
 
 ### Trie
-...
+- [ ] Implement Trie (Prefix Tree)
+- [ ] Design Add and Search Words Data Structure
 
 ### Backtracking
 ...
