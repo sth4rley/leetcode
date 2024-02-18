@@ -19,7 +19,7 @@ My Solutions for LeetCode Challenges
 - [x] Roman to Integer
 - [ ] Integer to Roman
 - [x] Length of Last Word
-- [ ] Longest Common Prefix
+- [x] Longest Common Prefix
 - [x] Reverse Words in a String
 - [ ] Zigzag Conversion
 - [x] Find the Index of the First Occurrence in a String
