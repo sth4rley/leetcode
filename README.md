@@ -110,7 +110,7 @@ My Solutions for LeetCode Challenges
 ...
 
 ### Divide & Conquer
-- [ ] Convert Sorted Array to Binary Search Tree
+- [x] Convert Sorted Array to Binary Search Tree
 - ...
 
 ### Kadane's Algorithm
