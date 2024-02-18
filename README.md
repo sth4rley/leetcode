@@ -103,7 +103,7 @@ My Solutions for LeetCode Challenges
 - [ ] Minimum Genetic Mutation
 
 ### Trie
-- [ ] Implement Trie (Prefix Tree)
+- [x] Implement Trie (Prefix Tree)
 - [ ] Design Add and Search Words Data Structure
 
 ### Backtracking
