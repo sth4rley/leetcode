@@ -114,7 +114,7 @@ My Solutions for LeetCode Challenges
 - ...
 
 ### Kadane's Algorithm
-- [ ] Maximum Subarray
+- [x] Maximum Subarray
 - [ ] Maximum Sum Circular Subarray
 
 ### Binary Search
