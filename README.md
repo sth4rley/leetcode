@@ -143,6 +143,8 @@ My Solutions for LeetCode Challenges
 
 ### 1D DP
 - [x] Climbing Stairs
+- [x] Fibonacci Number
+- [x] N-th Tribonacci
 - [ ] House Robber
 - [ ] Word Break
 - [ ] Coin Change
