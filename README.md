@@ -145,6 +145,7 @@ My Solutions for LeetCode Challenges
 - [x] Climbing Stairs
 - [x] Fibonacci Number
 - [x] N-th Tribonacci
+- [x] Min Cost Climbing Stairs
 - [ ] House Robber
 - [ ] Word Break
 - [ ] Coin Change
