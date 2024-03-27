@@ -48,6 +48,7 @@ My Solutions for LeetCode Challenges
 - [x] Valid Anagram
 - [x] Group Anagrams
 - [x] Contains Duplicate II
+- [x] Find the Difference of Two Arrays
 
 ### Intervals
 - [ ] Summary Ranges
