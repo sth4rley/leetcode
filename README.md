@@ -23,6 +23,9 @@ My Solutions for LeetCode Challenges
 - [x] Reverse Words in a String
 - [ ] Zigzag Conversion
 - [x] Find the Index of the First Occurrence in a String
+- [X] Single Number I
+- [X] Single Number II
+
 
 ### Two Pointers
 - [x] Valid Palindrome
