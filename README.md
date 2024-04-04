@@ -69,6 +69,8 @@ My Solutions for LeetCode Challenges
 - [x] Linked List Cycle
 - [x] Swap Pairs ***
 - [x] Add Two Numbers
+- [x] Middle of Linked List
+- [x] Palindrome Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Copy List with Random Pointer
 - [ ] Reverse Linked List II
