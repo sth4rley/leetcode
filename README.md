@@ -10,6 +10,7 @@ My Solutions for LeetCode Challenges
 - [ ] Rotate Array
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Best Time to Buy and Sell Stock II
+- [x] Find Words Containing
 - [ ] Jump Game
 - [ ] Jump Game II
 - [ ] H-Index
@@ -18,6 +19,7 @@ My Solutions for LeetCode Challenges
 - [ ] Gas Station
 - [x] Roman to Integer
 - [ ] Integer to Roman
+- [x] Shuffle String
 - [x] Length of Last Word
 - [x] Longest Common Prefix
 - [x] Reverse Words in a String
