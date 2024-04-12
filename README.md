@@ -23,6 +23,7 @@ My Solutions for LeetCode Challenges
 - [x] Length of Last Word
 - [x] Longest Common Prefix
 - [x] Reverse Words in a String
+- [x] Minimum Operations to Make the Array Increasing
 - [ ] Zigzag Conversion
 - [x] Find the Index of the First Occurrence in a String
 - [X] Single Number I
