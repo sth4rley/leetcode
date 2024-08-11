@@ -14,6 +14,8 @@ My Solutions for LeetCode Challenges
 - [ ] Jump Game
 - [ ] Jump Game II
 - [ ] H-Index
+- [X] Merge String Alternately
+- [X] Kids With the Greatest Number of Candies
 - [ ] Insert Delete GetRandom O(1)
 - [ ] Product of Array Except Self
 - [ ] Gas Station
@@ -28,6 +30,7 @@ My Solutions for LeetCode Challenges
 - [x] Find the Index of the First Occurrence in a String
 - [X] Single Number I
 - [X] Single Number II
+
 
 
 ### Two Pointers
