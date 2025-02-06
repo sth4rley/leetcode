@@ -62,7 +62,7 @@ My Solutions for LeetCode Challenges
 
 ### Intervals
 - [x] Summary Ranges
-- [ ] Merge Intervals
+- [x] Merge Intervals
 - [ ] Insert Interval
 - [ ] Minimum Number of Arrows to Burst Balloons
 
