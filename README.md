@@ -7,7 +7,7 @@ My Solutions for LeetCode Challenges
 - [x] Remove Duplicates from Sorted Array
 - [x] Remove Duplicates from Sorted Array II
 - [x] Majority Element
-- [ ] Rotate Array
+- [x] Rotate Array
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Best Time to Buy and Sell Stock II
 - [x] Find Words Containing
@@ -54,6 +54,7 @@ My Solutions for LeetCode Challenges
 - [x] Isomorphic Strings
 - [x] Word Pattern
 - [x] Two Sum
+- [x] Happy Number
 - [x] Valid Anagram
 - [x] Group Anagrams
 - [x] Contains Duplicate II
