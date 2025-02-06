@@ -69,7 +69,7 @@ My Solutions for LeetCode Challenges
 ### Stack
 - [x] Valid Parentheses
 - [x] Simplify Path
-- [ ] Min Stack
+- [x] Min Stack
 - [x] Evaluate Reverse Polish Notation
 
 ### Linked List
