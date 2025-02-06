@@ -61,7 +61,7 @@ My Solutions for LeetCode Challenges
 - [x] Find the Difference of Two Arrays
 
 ### Intervals
-- [ ] Summary Ranges
+- [x] Summary Ranges
 - [ ] Merge Intervals
 - [ ] Insert Interval
 - [ ] Minimum Number of Arrows to Burst Balloons
