@@ -79,7 +79,7 @@ My Solutions for LeetCode Challenges
 - [x] Middle of Linked List
 - [x] Palindrome Linked List
 - [x] Lexicographically Smallest Palindrome
-- [ ] Merge Two Sorted Lists
+- [x] Merge Two Sorted Lists
 - [ ] Copy List with Random Pointer
 - [ ] Reverse Linked List II
 - [ ] Remove Nth Node From End of List
