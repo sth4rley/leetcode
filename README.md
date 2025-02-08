@@ -132,7 +132,7 @@ My Solutions for LeetCode Challenges
 - [ ] Maximum Sum Circular Subarray
 
 ### Binary Search
-- [ ] Search Insert Position
+- [x] Search Insert Position
 - ...
 
 ### Binary Search
