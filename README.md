@@ -80,6 +80,7 @@ My Solutions for LeetCode Challenges
 - [x] Palindrome Linked List
 - [x] Lexicographically Smallest Palindrome
 - [x] Merge Two Sorted Lists
+- [x] Remove Duplicates from Sorted List
 - [ ] Copy List with Random Pointer
 - [ ] Reverse Linked List II
 - [ ] Remove Nth Node From End of List
@@ -133,10 +134,6 @@ My Solutions for LeetCode Challenges
 
 ### Binary Search
 - [x] Search Insert Position
-- ...
-
-### Binary Search
-- [ ] Search Insert Position
 - ...
 
 ### Heap
