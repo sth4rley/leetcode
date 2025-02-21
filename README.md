@@ -97,7 +97,7 @@ My Solutions for LeetCode Challenges
 - ...
 
 ### Binary Tree BFS
-- [ ] Average of Levels in Binary Tree
+- [x] Average of Levels in Binary Tree
 - ...
 
 ### Binary Search Tree
